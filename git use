@@ -1,0 +1,4 @@
+깃허브 파일 올리는 명령어
+git add .
+git commit -m “메세지”
+git push origin main
